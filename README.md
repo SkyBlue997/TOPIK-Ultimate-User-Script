@@ -6,7 +6,7 @@
 
 基于 JavaScript 和 jQuery 开发，专为韩国语能力考试 (TOPIK) 韩国考点报名设计。通过直接操作 DOM 和模拟用户行为，实现了从登录、排队到考场选择、支付的全流程自动化。
 
-<img src="image/image.jpg" width="500" alt="TOPIK GUI" />
+<img src="image/image1.jpeg" width="500" alt="TOPIK GUI" />
 
 </div>
 
